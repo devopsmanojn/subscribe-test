@@ -40,6 +40,6 @@ also used events and listeners to listen to the event of adding a post and dispa
 
 after that made queues to send email to all subscribers to the post's website.
 
-
+you can check the APIs in the collection provided with the code
 
 
